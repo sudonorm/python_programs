@@ -39,7 +39,6 @@ def time_spent(func):
         return value 
     return wrapper_timer
 
-
 #### Example Usage ####
 
 # @time_spent
